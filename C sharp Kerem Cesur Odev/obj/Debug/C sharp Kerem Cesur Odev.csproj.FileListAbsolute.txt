@@ -1,0 +1,33 @@
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe.config
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.pdb
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Form1.resources
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Properties.Resources.resources
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.GenerateResource.cache
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe.config
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Form1.resources
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Properties.Resources.resources
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.GenerateResource.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\C#\C sharp Kerem Cesur Odev\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe.config
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\bin\Debug\C sharp Kerem Cesur Odev.pdb
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.AssemblyReference.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.SuggestedBindingRedirects.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Form1.resources
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C_sharp_Kerem_Cesur_Odev.Properties.Resources.resources
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.GenerateResource.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.csproj.CoreCompileInputs.cache
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.exe
+C:\Users\alpha\OneDrive\Masaüstü\Project\# C#\C sharp Kerem Cesur Odev v2\C sharp Kerem Cesur Odev\obj\Debug\C sharp Kerem Cesur Odev.pdb
