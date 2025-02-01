@@ -8,3 +8,4 @@ Bu masaüstü stok takip uygulaması, stok ekleme ve görüntüleme işlemlerini
 - Arama ve filtreleme
 - Kullanıcı dostu arayüz
 - Veritabanı entegrasyonu
+![resim](1.png)
